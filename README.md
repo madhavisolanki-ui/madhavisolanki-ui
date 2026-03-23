@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am a Computer Science student with interest in problem-solving and development.
+
+![GitHub Streak](https://streak-stats.demolab.com?user=madhavisolanki-uiE&theme=dark)
 
 <!--
 **madhavisolanki-ui/madhavisolanki-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
