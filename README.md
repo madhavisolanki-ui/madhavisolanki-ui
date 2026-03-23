@@ -1,5 +1,4 @@
-## Hi,I am Madhavi Solanki 👋
-I am a Computer Science student with interest in problem-solving and development.
+## Hi 👋,I am Madhavi Solanki
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=madhavisolanki-ui&theme=dark)
 
