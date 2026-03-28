@@ -4,9 +4,8 @@ ________________________________________________________________________________
 
 * 🎓 Pursuing B.Tech in Computer Science Engineering (2nd Year)
 * 💻 Strong interest in Data Structures, Algorithms, and Software Development
-* 🤖 Exploring Artificial Intelligence and Machine Learning concepts
 * 🌐 Learning Data Science and building practical projects
-* 🚀 Actively improving problem-solving skills through coding practice
+* 🤖 Exploring Artificial Intelligence and Machine Learning concepts
 _________________________________________________________________________________
 ## 🛠️ Tech Stack
 
