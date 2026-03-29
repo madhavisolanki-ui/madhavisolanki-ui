@@ -16,7 +16,8 @@ ________________________________________________________________________________
 
 ### 📦 Python Libraries  
 ![Numpy](https://img.shields.io/badge/Numpy-pink?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-green?style=for-the-badge&logo=pandas) 
+![Pandas](https://img.shields.io/badge/Pandas-green?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-yellow?style=for-the-badge&logo=matplotlib) 
 
 ### 📚 Core Skills  
 ![Data Structure & Algorithms](https://img.shields.io/badge/DSA-orange?style=for-the-badge&logo=DSA)  
