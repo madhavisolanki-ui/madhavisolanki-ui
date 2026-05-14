@@ -1,48 +1,41 @@
-## Hi👋, I am Madhavi Solanki
-________________________________________________________________________________
+<h1 align="center">Hi 👋, I am Madhavi Solanki</h1>
+<h3 align="center">A passionate CSE student exploring Data Science, AI, and Software Development.</h3>
+
+---
+
 ## 👨‍💻 About Me
 
-* 🎓 Pursuing B.Tech in Computer Science Engineering (2nd Year)
-* 💻 Strong interest in Data Structures, Algorithms, and Software Development
-* 🌐 Learning Data Science and building practical projects
-* 🤖 Exploring Artificial Intelligence and Machine Learning concepts
-_________________________________________________________________________________
+* 🎓 Pursuing a **B.Tech in Computer Science Engineering** (2nd Year).
+* 🌱 Currently learning **Data Science**, **Machine Learning**, and building practical projects.
+* 💻 Deeply interested in **Data Structures, Algorithms**, and **Software Development**.
+* 🚀 Constantly exploring new AI/ML concepts and looking for opportunities to collaborate.
+* 📫 Let's connect: **[Insert Your Email Address]** | **[Insert Your LinkedIn Profile URL]**
+
+---
+
 ## 🛠️ Tech Stack
 
-### 💻 Languages  
-![Java](https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-skyblue?style=for-the-badge)
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📦 Python Libraries  
-![Numpy](https://img.shields.io/badge/Numpy-pink?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-green?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-yellow?style=for-the-badge&logo=matplotlib) 
+### 📦 Libraries & Frameworks
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 
-### 📚 Core Skills  
-![Data Structure & Algorithms](https://img.shields.io/badge/DSA-orange?style=for-the-badge&logo=DSA)  
+### ⚙️ Tools & Core Skills
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Data Structures & Algorithms](https://img.shields.io/badge/DSA-FF9900?style=for-the-badge)
 
-### ⚙️ Tools  
-![Git](https://img.shields.io/badge/Git-lightyellow?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-___________________________________________________
-##  🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhavisolanki-ui&theme=dark)
+---
 
-<!--
-**madhavisolanki-ui/madhavisolanki-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
--->
-
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavisolanki-ui&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=madhavisolanki-ui&show_icons=true&theme=dark&hide_border=true" alt="Madhavi's GitHub Stats" />
+</div>
