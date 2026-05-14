@@ -33,10 +33,14 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/madhavisolanki-ui">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavisolanki-ui&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavisolanki-ui&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=madhavisolanki-ui&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Madhavi's GitHub Stats" />
-</div>
+<p align="center">
+  <a href="https://github.com/madhavisolanki-ui">
+    <img src="https://github-readme-stats.vercel.app/api?username=madhavisolanki-ui&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Madhavi's GitHub Stats" />
+  </a>
+</p>
