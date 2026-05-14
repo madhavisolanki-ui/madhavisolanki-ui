@@ -9,7 +9,6 @@
 * 🌱 Currently learning **Data Science**, **Machine Learning**, and building practical projects.
 * 💻 Deeply interested in **Data Structures, Algorithms**, and **Software Development**.
 * 🚀 Constantly exploring new AI/ML concepts and looking for opportunities to collaborate.
-* 📫 Let's connect: **[Insert Your Email Address]** | **[Insert Your LinkedIn Profile URL]**
 
 ---
 
@@ -34,8 +33,10 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavisolanki-ui&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=madhavisolanki-ui&show_icons=true&theme=dark&hide_border=true" alt="Madhavi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madhavisolanki-ui&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Madhavi's GitHub Stats" />
 </div>
