@@ -43,8 +43,9 @@
 ---
 
 ## 🚀 Featured Projects
-* **[AI-Resume-Analyzer](https://github.com/madhavisolanki-ui/AI-Resume-Analyzer)** - An interactive Streamlit web app that automates resume screening, extracts key skills, and generates actionable feedback reports using `Python` and `Pandas`.
-* **[Student-Performance-Analyzer](https://github.com/madhavisolanki-ui/Student-Performance-Analyzer)** - A Machine Learning web application built with `Python`, `Scikit-learn`, and `Streamlit` that uses a Random Forest Classifier to predict student academic outcomes based on key metrics.
+* **AI-Resume-Analyzer** - An interactive Streamlit web app that automates resume screening, extracts key skills, and generates actionable feedback reports using `Python` and `Pandas`.
+  
+* **Student-Performance-Analyzer** - A Machine Learning web application built with `Python`, `Scikit-learn`, and `Streamlit` that uses a Random Forest Classifier to predict student academic outcomes based on key metrics.
 
 ---
 
