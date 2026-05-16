@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I am Madhavi Solanki</h1>
-  <h3>CSE Student | Aspiring AI Engineer | Exploring Data Science, Machine Learning & Generative AI 🚀</h3>
+  <h3>CSE Student | Aspiring AI Engineer | Exploring Data Science, Machine Learning & Generative AI </h3>
 </div>
 
 ---
