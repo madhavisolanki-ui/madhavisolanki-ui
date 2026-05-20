@@ -49,6 +49,13 @@
 
 ---
 
+## 🔀 Pull Requests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Pull%20Requests&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%3Apr%2Bauthor%3Amadhavisolanki-ui&style=for-the-badge" />
+</p>
+
+---
 
 ## 📈 Top Languages
 <div align="center">
