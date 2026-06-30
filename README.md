@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 2nd-Year **B.Tech CSE** student.
+* 🎓 Pre-Final Year **B.Tech CSE** student.
 * 💻 Passionate about **Software Development** and **DSA**.
 * 🌱 Exploring **Data Science** and modern AI frameworks.
 * 🤖 Hands-on experience building projects with **Generative AI, LLMs, and RAG**.
