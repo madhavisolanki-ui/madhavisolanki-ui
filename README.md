@@ -36,7 +36,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge) ![GenAI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge) ![LLMs](https://img.shields.io/badge/LLMs-0A66C2?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-00A67E?style=for-the-badge) 
 
 ### ⚙️ Tools & Core Skills
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/github%20copilot-000?style=for-the-badge&logo=github&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-181717?style=for-the-badge&logo=streamlit&logoColor=darkred) ![DSA](https://img.shields.io/badge/DSA-FF9900?style=for-the-badge) ![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/github%20copilot-000?style=for-the-badge&logo=github&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-181717?style=for-the-badge&logo=streamlit&logoColor=darkyellow) ![DSA](https://img.shields.io/badge/DSA-FF9900?style=for-the-badge) ![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge)
 
 ---
 
