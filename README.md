@@ -3,8 +3,7 @@
   <h3 align="center">🚀 Pre-final Year B.Tech CSE | AI Engineer Aspirant </h3>
   <p align="center">
     💻 Turning caffeine into code and AI models. 
-  <br>
-    💡 Passionate about building scalable AI solutions and RAG systems.</p>
+ </p>
 </div>
 
 ---
