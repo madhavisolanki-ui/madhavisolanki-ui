@@ -22,6 +22,12 @@ AI/ML engineer building production systems. **GSSOC 2026 contributor** with 22+ 
 
 ---
 
+## 🏆 Achievements
+
+![GSSOC Badge](https://img.shields.io/badge/Google-Summer_of_Code-4285F4?style=for-the-badge) ![22_PRs](https://img.shields.io/badge/22%2B-PRs_Merged-28a745?style=for-the-badge) ![Open_Source](https://img.shields.io/badge/Open_Source-Contributor-ff69b4?style=for-the-badge) ![AI_ML](https://img.shields.io/badge/AI%2FML-Engineer-FFD700?style=for-the-badge)
+
+---
+
 ## ⭐ Recognition & Open Source
 
 ### Google Summer of Code 2026
@@ -40,6 +46,25 @@ AI/ML engineer building production systems. **GSSOC 2026 contributor** with 22+ 
 
 ---
 
+## 📂 Featured Projects & Repositories
+
+### Core AI/ML Projects
+
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| **AI-Resume-Analyzer** | 🎯 Smart resume evaluation with ATS scoring, keyword detection, PDF feedback | Python, Streamlit, NLP | [View →](https://github.com/madhavisolanki-ui/AI-Resume-Analyzer) |
+| **Portfolio** | 📊 End-to-end data science & ML projects (Resume Analyzer, Student Performance Forecasting) | Python, JavaScript | [View →](https://github.com/madhavisolanki-ui/Portfolio) |
+| **AI-support-bot** | 🤖 Context-aware AI chatbot for automated IT support responses | Python, LLM | [View →](https://github.com/madhavisolanki-ui/AI-support-bot) |
+
+### Skills & Learning Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **skills-customize-your-github-copilot-experience** | GitHub Copilot customization exercise | JavaScript |
+| **skills-create-applications-with-the-copilot-cli** | Copilot CLI application development | JavaScript |
+
+---
+
 ## 🛠️ Tech Stack
 
 | Category | Skills |
@@ -52,10 +77,11 @@ AI/ML engineer building production systems. **GSSOC 2026 contributor** with 22+ 
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects - Metrics & Impact
 
 ### 1️⃣ AI Resume Analyzer
-**Tech:** Python | Streamlit | NLP | Scikit-Learn
+**Tech:** Python | Streamlit | NLP | Scikit-Learn  
+**GitHub:** [madhavisolanki-ui/AI-Resume-Analyzer](https://github.com/madhavisolanki-ui/AI-Resume-Analyzer)
 
 | Metric | Result |
 |--------|--------|
@@ -69,7 +95,8 @@ AI/ML engineer building production systems. **GSSOC 2026 contributor** with 22+ 
 ---
 
 ### 2️⃣ Student Performance Analyzer
-**Tech:** Python | Random Forest | Scikit-Learn | Streamlit
+**Tech:** Python | Random Forest | Scikit-Learn | Streamlit  
+**GitHub:** [madhavisolanki-ui/Portfolio](https://github.com/madhavisolanki-ui/Portfolio)
 
 | Metric | Result |
 |--------|--------|
