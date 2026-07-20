@@ -4,12 +4,12 @@
 ### 🚀 AI Engineer | Software Engineer | Pre-Final Year B.Tech CSE
 
 <p align="center">
-  <strong>Building scalable AI systems | LLM & RAG specialist | 600+ DSA problems</strong>
+  <strong>Building scalable AI systems | LLM & RAG specialist | 400+ DSA problems</strong>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/madhavi-solanki-9a36b0337"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Madhavi_1912/"><img src="https://img.shields.io/badge/LeetCode-600%2B-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06" /></a>
+  <a href="https://leetcode.com/u/Madhavi_1912/"><img src="https://img.shields.io/badge/LeetCode-400%2B-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06" /></a>
   <a href="https://github.com/madhavisolanki-ui"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:madhavisolanki02@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-AI/ML engineer building production systems. Expertise in **LLM architectures**, **RAG systems**, and **backend scalability**. 600+ competitive programming problems solved.
+AI/ML engineer building production systems. Expertise in **LLM architectures**, **RAG systems**, and **backend scalability**. 400+ competitive programming problems solved.
 
 ---
 
@@ -90,9 +90,7 @@ AI/ML engineer building production systems. Expertise in **LLM architectures**, 
 
 | Platform | Achievement |
 |----------|-------------|
-| **LeetCode** | 600+ problems, Top 10% in contests |
-| **CodeChef** | Active contributor |
-| **Codeforces** | Pupil+ rating |
+| **LeetCode** | 400+ problems solved |
 
 ---
 
