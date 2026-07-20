@@ -1,10 +1,10 @@
 <div align="center">
 
 # Madhavi Solanki
-### 🚀 AI Engineer | Software Engineer | Pre-Final Year B.Tech CSE
+### 🚀 AI Engineer | GSSOC 2026 Contributor | Pre-Final Year B.Tech CSE
 
 <p align="center">
-  <strong>Building scalable AI systems | LLM & RAG specialist | 400+ DSA problems</strong>
+  <strong>Building scalable AI systems | GSSOC Participant | 22+ OSS PRs | LLM & RAG specialist</strong>
 </p>
 
 <p align="center">
@@ -18,7 +18,25 @@
 
 ## 👋 About Me
 
-AI/ML engineer building production systems. Expertise in **LLM architectures**, **RAG systems**, and **backend scalability**. 400+ competitive programming problems solved.
+AI/ML engineer building production systems. **GSSOC 2026 contributor** with 22+ PRs merged and 3 issues resolved. Expertise in **LLM architectures**, **RAG systems**, and **backend scalability**. 400+ competitive programming problems solved.
+
+---
+
+## ⭐ Recognition & Open Source
+
+### Google Summer of Code 2026
+- ✅ **Active Contributor** | Successfully completed GSSOC 2026
+- 📝 **22+ Pull Requests** merged across multiple repositories
+- 🐛 **3 Issues** identified and resolved
+- 🔧 **Tech Stack:** JavaScript (92.9%) | Python (7.1%) | Shell
+- 🤝 **Collaboration:** Worked with mentors and community contributors
+
+| Metric | Achievement |
+|--------|-------------|
+| **PRs Merged** | 22+ high-quality contributions |
+| **Issues Resolved** | 3 critical bugs & features |
+| **Code Review** | Collaborative pull request process |
+| **Languages** | Full-stack (JavaScript + Python) |
 
 ---
 
