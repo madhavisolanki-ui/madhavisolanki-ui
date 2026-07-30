@@ -29,7 +29,7 @@
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,vscode,mongodb"/>
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode,mongodb"/>
 </p>
 
 ### AI / ML
