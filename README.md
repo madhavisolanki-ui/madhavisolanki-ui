@@ -23,13 +23,13 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,python,mysql"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,docker,linux,vscode,mongodb"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,vscode,mongodb"/>
 </p>
 
 ### AI / ML
