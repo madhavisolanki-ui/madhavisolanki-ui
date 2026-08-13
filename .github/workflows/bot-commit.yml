@@ -1,40 +1,91 @@
-name: Automatic Bot Commit
+name: Update Recent Activity
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  
+    - cron: "0 */6 * * *"  # every 6 hours
   workflow_dispatch:
-  
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
 
 jobs:
-  auto-commit:
+  update:
     runs-on: ubuntu-latest
-    
+    permissions:
+      contents: write
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Build activity block
+        id: build
+        uses: actions/github-script@v7
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const owner = context.repo.owner;
+            const events = await github.rest.activity.listPublicEventsForUser({
+              username: owner,
+              per_page: 30,
+            });
+            const lines = [];
+            const seen = new Set();
+            for (const e of events.data) {
+              if (lines.length >= 6) break;
+              const repo = e.repo.name;
+              const date = new Date(e.created_at).toISOString().slice(0, 10);
+              const dedupKey = `${repo}|${e.type}`;
+              if (seen.has(dedupKey)) continue;
+              let line = "";
+              if (e.type === "PushEvent") {
+                const commits = (e.payload.commits || []).length;
+                line = `🚀 \`${repo}\` — pushed ${commits} commit${commits === 1 ? "" : "s"} (${date})`;
+              } else if (e.type === "CreateEvent") {
+                line = `🌱 \`${repo}\` — created ${e.payload.ref_type} ${e.payload.ref || ""} (${date})`;
+              } else if (e.type === "ReleaseEvent") {
+                line = `📦 \`${repo}\` — release published (${date})`;
+              } else if (e.type === "PublicEvent") {
+                line = `👀 \`${repo}\` — made public (${date})`;
+              } else if (e.type === "WatchEvent") {
+                line = `⭐ \`${repo}\` — starred (${date})`;
+              } else if (e.type === "ForkEvent") {
+                line = `🍴 \`${repo}\` — forked (${date})`;
+              } else if (e.type === "PullRequestEvent") {
+                line = `🔀 \`${repo}\` — pull request ${e.payload.action} (${date})`;
+              } else {
+                continue;
+              }
+              seen.add(dedupKey);
+              lines.push(line);
+            }
+            if (lines.length === 0) {
+              lines.push("_(No recent public activity — heads down shipping.)_");
+            }
+            const body = lines.map((l) => `- ${l}`).join("\n");
+            return `<!-- START_ACTIVITY -->\n#### ⚡ Recent GitHub Activity\n\n${body}\n<!-- END_ACTIVITY -->`;
 
-      - name: Set up Git identity
+      - name: Patch and commit
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python - <<'EOF'
+          import json, os
+          block = os.environ["BLOCK"]
+          with open("README.md", "r", encoding="utf-8") as f:
+              txt = f.read()
+          start = txt.find("<!-- START_ACTIVITY -->")
+          end = txt.find("<!-- END_ACTIVITY -->")
+          if start != -1 and end != -1:
+              end += len("<!-- END_ACTIVITY -->")
+              new = txt[:start] + block + txt[end:]
+          else:
+              new = txt
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new)
+          print("patched")
+          EOF
+        env:
+          BLOCK: ${{ steps.build.outputs.result }}
 
-      - name: Update README invisibly
+      - name: Commit
         run: |
-          # Yahan HTML comment use kiya hai taaki text profile par show na ho
-          echo "<!-- Last bot run: $(date) -->" >> README.md
-
-      - name: Commit and Push changes
-        run: |
-          git status
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update profile README [skip ci]" && git push origin main)
+          git diff --quiet HEAD -- README.md || git commit -m "chore(profile): auto-update recent activity"
+          git push
