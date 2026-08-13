@@ -30,7 +30,7 @@ jobs:
 
       - name: Update README invisibly
         run: |
-          # Yeh invisible comment add karega jo profile par show nahi hoga
+          # Yahan HTML comment use kiya hai taaki text profile par show na ho
           echo "<!-- Last bot run: $(date) -->" >> README.md
 
       - name: Commit and Push changes
