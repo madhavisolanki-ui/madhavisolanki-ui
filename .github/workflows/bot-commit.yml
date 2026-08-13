@@ -59,7 +59,10 @@ jobs:
               lines.push("_(No recent public activity — heads down shipping.)_");
             }
             const body = lines.map((l) => `- ${l}`).join("\n");
-            return `<!-- START_ACTIVITY -->\n#### ⚡ Recent GitHub Activity\n\n${body}\n<!-- END_ACTIVITY -->`;
+            const result = `#### ⚡ Recent GitHub Activity\n\n${body}`;
+            
+            core.setOutput("result", result);
+            return result;           
 
       - name: Patch and commit
         run: |
