@@ -1,40 +1,41 @@
 name: Automatic Bot Commit
 
-# Yeh workflow kab chalega (Aap ise apne hisaab se schedule ya trigger kar sakte hain)
 on:
+  # Roz subah 5:30 baje IST (UTC 00:00) par apne aap chalega
+  schedule:
+    - cron: '0 0 * * *'
+  
+  # Ise aap GitHub Actions tab se manual bhi run kar sakte hain
+  workflow_dispatch:
+  
   push:
     branches:
       - main
 
-# Permissions define karna zaroori hai taaki action write kar sake
 permissions:
   contents: write
 
 jobs:
   auto-commit:
-  # GitHub ka standard virtual machine environment
     runs-on: ubuntu-latest
     
     steps:
-      # 1. Sabse pehle apni repository ko workflow ke andar download/checkout karein
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 2. Yahan hum Git ko bata rahe hain ki commit karne wale bot ka naam aur email kya hoga
       - name: Set up Git identity
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      # 3. Yahan aap apna koi bhi task ya code run kar sakte hain jo file me badlav karega
-      # (Example ke liye hum ek sample text file bana ya update rahe hain)
       - name: Modify a file
         run: |
           echo "Bot run on: $(date)" >> bot-log.txt
 
-      # 4. Ab changes ko Git me add karke commit aur push kar dein
       - name: Commit and Push changes
         run: |
+          git status
           git add bot-log.txt
-          git commit -m "chore: bot updated log file [skip ci]"
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: bot updated log file [skip ci]" && git push origin main)
