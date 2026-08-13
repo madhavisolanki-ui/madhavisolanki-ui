@@ -1,11 +1,9 @@
 name: Automatic Bot Commit
 
 on:
-  # Roz subah 5:30 baje IST (UTC 00:00) par apne aap chalega
   schedule:
     - cron: '0 0 * * *'
   
-  # Ise aap GitHub Actions tab se manual bhi run kar sakte hain
   workflow_dispatch:
   
   push:
@@ -30,11 +28,10 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      # Yahan humne bot-log.txt ki jagah README.md kar diya hai
-      - name: Modify README file
+      - name: Update README invisibly
         run: |
-          echo "" >> README.md
-          echo "Bot run on: $(date)" >> README.md
+          # Yeh invisible comment add karega jo profile par show nahi hoga
+          echo "<!-- Last bot run: $(date) -->" >> README.md
 
       - name: Commit and Push changes
         run: |
