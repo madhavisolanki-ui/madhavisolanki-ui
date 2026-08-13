@@ -30,12 +30,14 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Modify a file
+      # Yahan humne bot-log.txt ki jagah README.md kar diya hai
+      - name: Modify README file
         run: |
-          echo "Bot run on: $(date)" >> bot-log.txt
+          echo "" >> README.md
+          echo "Bot run on: $(date)" >> README.md
 
       - name: Commit and Push changes
         run: |
           git status
-          git add bot-log.txt
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: bot updated log file [skip ci]" && git push origin main)
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update profile README [skip ci]" && git push origin main)
