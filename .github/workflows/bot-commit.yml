@@ -67,20 +67,30 @@ jobs:
       - name: Patch and commit
         run: |
           python - <<'EOF'
-          import json, os
-          block = os.environ["BLOCK"]
+          import os
+          block = os.environ.get("BLOCK", "").strip()
+          
+          # Clean up any surrounding quotes if passed accidentally
+          if (block.startswith('"') and block.endswith('"')) or (block.startswith("'") and block.endswith("'")):
+              block = block[1:-1].encode().decode('unicode_escape')
+
+          formatted_block = f"\n<!-- START_ACTIVITY -->\n{block}\n<!-- END_ACTIVITY -->\n"
+
           with open("README.md", "r", encoding="utf-8") as f:
               txt = f.read()
+          
           start = txt.find("<!-- START_ACTIVITY -->")
           end = txt.find("<!-- END_ACTIVITY -->")
+          
           if start != -1 and end != -1:
               end += len("<!-- END_ACTIVITY -->")
-              new = txt[:start] + block + txt[end:]
+              new = txt[:start] + formatted_block.strip() + txt[end:]
           else:
-              new = txt
+              new = txt + "\n" + formatted_block
+
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(new)
-          print("patched")
+          print("Successfully patched README.md")
           EOF
         env:
           BLOCK: ${{ steps.build.outputs.result }}
