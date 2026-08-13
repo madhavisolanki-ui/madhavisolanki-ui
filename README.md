@@ -134,15 +134,3 @@
 
 </div>
 
-
-""⚡ Recent GitHub Activity
-🚀 `madhavisolanki-ui/madhavisolanki-ui` — pushed 0 commits (2026-08-13)
-🚀 `madhavisolanki-ui/BridgeLabz-Training-3Y` — pushed 0 commits (2026-08-13)""
-
-
-<!-- START_ACTIVITY -->
-#### â¡ Recent GitHub Activity
-
-- ð `madhavisolanki-ui/madhavisolanki-ui` â pushed 0 commits (2026-08-13)
-- ð `madhavisolanki-ui/BridgeLabz-Training-3Y` â pushed 0 commits (2026-08-13)
-<!-- END_ACTIVITY -->
