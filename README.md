@@ -1,170 +1,169 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ba55d3&height=220&section=header&text=Madhavi%20Solanki&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ba55d3&height=210&section=header&text=Madhavi%20Solanki&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=AI+Engineer+Aspirant;Pre-Final+Year+B.Tech+CSE;Open+Source+Contributor;Java+%7C+Python+%7C+ML+%7C+LLMs+%7C+RAG)](https://git.io/typing-svg)
+<h2>AI Engineer Aspirant | B.Tech CSE | Software Engineering</h2>
+
+<p>
+Building practical solutions with <b>Machine Learning, LLMs and RAG</b>.
+</p>
+
+<p>
+<a href="https://github.com/madhavisolanki-ui">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/madhavi-solanki-9a36b0337">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:madhavisolanki02@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
-## 💫 About Me
+---
 
-- 🎓 Pre-Final Year B.Tech CSE Student
-- 🤖 AI Engineer Aspirant
-- 💻 Passionate about Software Engineering, DSA & AI
-- 🌱 Learning PyTorch, Transformers, LLMs, RAG & AI Agents
-- 🚀 Building end-to-end AI/ML applications
-- 🤝 Open to Internship & Open Source Opportunities
+## 👩‍💻 About Me
+
+- 🎓 B.Tech Computer Science student
+- 🤖 Aspiring AI Engineer
+- 💻 Interested in Software Engineering and Artificial Intelligence
+- 🧠 Learning LLMs, RAG, Transformers and AI Agents
+- 🚀 Building end-to-end ML/AI applications
+- 🌱 Open to internships and open-source opportunities
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Technical Skills
 
-### Languages
+### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python"/>
-</p>
+`Java` `Python` `SQL`
 
-### Databases
+### 📊 Data Science & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/>
-</p>
+`NumPy` `Pandas` `Matplotlib` `Seaborn`  
+`Scikit-learn` `XGBoost`
 
-### Backend & Development
+### 🧠 Deep Learning & Generative AI
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode"/>
-</p>
+`TensorFlow` `Keras` `PyTorch`  
+`LLMs` `Transformers` `RAG`
 
-### Data Science & Machine Learning
+### ⚙️ Backend & Databases
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+`FastAPI` `SQLAlchemy`  
+`PostgreSQL` `MySQL` `MongoDB`
 
-### Deep Learning & AI
+### 🔧 Tools & Engineering
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-6C3483?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-00C853?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge)
+`Git` `GitHub` `Docker` `Pytest`
 
-### AI / Data Applications
+### 🌐 Application & Visualization
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge)
-![PyDeck](https://img.shields.io/badge/PyDeck-1E88E5?style=for-the-badge)
-
-### DevOps & Testing
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker"/>
-</p>
-
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+`Streamlit` `Folium` `PyDeck`
 
 ---
 
 # 🚀 Featured Projects
 
-### 🌊 [Aquanga — Predictive Water Monitoring & Early Warning System]
+## 🌊 Aquanga
 
-**Monitor • Forecast • Analyze • Warn**
+### Predictive Water Monitoring & Early Warning System
 
-Ganga River water-quality forecasting and early-warning system using machine learning, deep learning and geospatial analytics.
+> **Monitor • Forecast • Analyze • Warn**
 
-**Tech:** Python • Pandas • NumPy • Scikit-learn • XGBoost • TensorFlow/Keras • FastAPI • PostgreSQL • SQLAlchemy • Streamlit • Folium • PyDeck • Docker
+An end-to-end environmental monitoring system for forecasting **Ganga River water quality** and identifying potential pollution risks before critical thresholds are reached.
 
-**Key Features:**
-- 📊 Water-quality trend analysis
-- 🧠 ML & DL forecasting
-- 🗺️ Interactive Ganga monitoring-station map
-- ⚠️ Environmental risk assessment
-- 🚨 Early-warning alerts
-- 📈 Model benchmarking
+**Tech Stack**
 
----
+`Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost`  
+`TensorFlow/Keras` `FastAPI` `PostgreSQL` `SQLAlchemy`  
+`Streamlit` `Folium` `PyDeck` `Docker`
 
-### 📄 AI Resume Analyzer
+**Engineering Highlights**
 
-AI-powered resume evaluation system that extracts skills, analyzes job relevance, and generates ATS-focused feedback.
+- 📊 Time-series preprocessing and feature engineering
+- 🧠 ML and Deep Learning model benchmarking
+- 📈 Chronological model evaluation
+- 🗺️ Geospatial monitoring-station visualization
+- ⚠️ Environmental risk scoring
+- 🚨 Automated early-warning alerts
+- 🔌 REST API for prediction and monitoring
 
-**Tech:** Python • NLP • Scikit-learn • Pandas • Streamlit • FPDF
-
-**Key Features:**
-- 📄 PDF resume parsing
-- 🔍 Skill extraction
-- 📊 ATS score & keyword analysis
-- 🎯 Missing-skill detection
-- 📑 Automated PDF feedback
-- 🌐 Live Streamlit deployment
-
-🔗 [Live Demo](https://resume-analyzer-09.streamlit.app/)
+🔗 **[View Repository](https://github.com/madhavisolanki-ui/Aquanga)**
 
 ---
 
-### 🎓 Student Performance & Attendance Analyzer
+## 🤖 AI Support Bot
 
-Machine Learning web application that predicts student performance using academic factors such as GPA, attendance, and semester.
+Privacy-focused **RAG-based support chatbot** that retrieves relevant knowledge-base information and generates context-aware, source-cited responses.
 
-**Tech:** Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • Streamlit
+**Tech Stack**
 
-**Key Features:**
-- 📊 Exploratory Data Analysis
-- 🤖 Random Forest classification
-- 🎯 Performance prediction
-- 📈 Interactive Streamlit interface
+`Python` `LlamaIndex` `Groq`  
+`Hugging Face Embeddings` `Streamlit`
 
-🔗 [GitHub Repository](https://github.com/madhavisolanki-ui/Student-Performance-Analyzer)
+**Engineering Highlights**
 
----
-
-### 🤖 AI Support Bot
-
-Privacy-first RAG chatbot that provides context-aware, source-cited answers from internal knowledge-base documents.
-
-**Tech:** Python • LlamaIndex • Groq • Hugging Face Embeddings • Streamlit
-
-**Key Features:**
 - 🔎 Semantic document retrieval
-- 🧠 Context-aware LLM responses
+- 🧠 Context-grounded LLM responses
 - 📚 Source-cited answers
-- ⚡ Low-latency responses
-- 🔐 Privacy-focused design
+- ⚡ Low-latency inference
+- 🔐 Privacy-focused architecture
 
-🔗 [Live Demo](https://ai-support-bot.streamlit.app/)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhavisolanki-ui&theme=rose_pine"/>
-</p>
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=madhavisolanki-ui&theme=rose_pine&hide_border=true"/>
-</p>
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavisolanki-ui&theme=react-dark"/>
-</p>
+🔗 **[Live Demo](https://ai-support-bot.streamlit.app/)**  
+🔗 **[View Repository](https://github.com/madhavisolanki-ui/ai-support-bot)**
 
 ---
 
-## 💻 Coding Profiles
+## 📄 AI Resume Analyzer
 
-<p align="center">
+ML/NLP application for analyzing resumes, extracting skills and generating ATS-focused feedback.
+
+**Tech Stack**
+
+`Python` `NLP` `Scikit-learn`  
+`Pandas` `Streamlit` `FPDF`
+
+**Engineering Highlights**
+
+- 📄 PDF text extraction
+- 🔍 Automated skill extraction
+- 📊 ATS score calculation
+- 🎯 Keyword and skill-gap analysis
+- 📑 Automated feedback report generation
+
+🔗 **[Live Demo](https://resume-analyzer-09.streamlit.app/)**  
+🔗 **[View Repository](https://github.com/madhavisolanki-ui/AI-Resume-Analyzer)**
+
+---
+
+## 🎓 Student Performance & Attendance Analyzer
+
+Machine Learning application for predicting student performance from academic and attendance-related features.
+
+**Tech Stack**
+
+`Python` `Pandas` `NumPy`  
+`Scikit-learn` `Matplotlib` `Seaborn` `Streamlit`
+
+**Engineering Highlights**
+
+- 📊 Exploratory data analysis
+- 🧹 Data preprocessing
+- 🤖 Random Forest classification
+- 📈 Model evaluation
+- 🎯 Interactive prediction interface
+
+🔗 **[View Repository](https://github.com/madhavisolanki-ui/Student-Performance-Analyzer)**
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
 
 <a href="https://leetcode.com/u/Madhavi_1912/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
@@ -182,13 +181,37 @@ Privacy-first RAG chatbot that provides context-aware, source-cited answers from
 <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-## 🤝 Connect With Me
+# 📊 GitHub Activity
 
-<p align="center">
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhavisolanki-ui&theme=rose_pine"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=madhavisolanki-ui&theme=rose_pine&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavisolanki-ui&theme=react-dark"/>
+
+</div>
+
+---
+
+# 🤝 Connect
+
+<div align="center">
 
 <a href="mailto:madhavisolanki02@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -202,16 +225,17 @@ Privacy-first RAG chatbot that provides context-aware, source-cited answers from
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
+
 
 <div align="center">
 
 ### ⭐ Thanks for visiting!
 
-**"Great engineers don't just write code — they solve meaningful problems."**
+**Building. Learning. Solving meaningful problems.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ba55d3,100:ff69b4&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ba55d3,100:ff69b4&height=100&section=footer"/>
 
 </div>
