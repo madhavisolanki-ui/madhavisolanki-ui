@@ -1,10 +1,8 @@
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ba55d3&height=220&section=header&text=Madhavi%20Solanki&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=AI+Engineer+Aspirant;Pre-Final+Year+B.Tech+CSE;Open+Source+Contributor;Java+%7C+Python+%7C+LLMs+%7C+RAG)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=AI+Engineer+Aspirant;Pre-Final+Year+B.Tech+CSE;Open+Source+Contributor;Java+%7C+Python+%7C+ML+%7C+LLMs+%7C+RAG)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,8 +10,9 @@
 
 - 🎓 Pre-Final Year B.Tech CSE Student
 - 🤖 AI Engineer Aspirant
-- 💻 Passionate about Software Engineering & DSA
+- 💻 Passionate about Software Engineering, DSA & AI
 - 🌱 Learning PyTorch, Transformers, LLMs, RAG & AI Agents
+- 🚀 Building end-to-end AI/ML applications
 - 🤝 Open to Internship & Open Source Opportunities
 
 ---
@@ -23,41 +22,123 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,python"/>
 </p>
 
-### Backend
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/>
 </p>
 
-### AI / ML
+### Backend & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode"/>
+</p>
+
+### Data Science & Machine Learning
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-blueviolet?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+
+### Deep Learning & AI
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-6C3483?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-00C853?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge)
+
+### AI / Data Applications
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge)
+![PyDeck](https://img.shields.io/badge/PyDeck-1E88E5?style=for-the-badge)
+
+### DevOps & Testing
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker"/>
+</p>
+
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ---
 
 # 🚀 Featured Projects
 
-### 📄 AI Resume Analyzer
-- ATS Resume Analysis
-- Skill Extraction
-- NLP + Streamlit
+### 🌊 [Aquanga — Predictive Water Monitoring & Early Warning System]
 
-### 🎓 Student Performance Analyzer
-- Random Forest
-- Streamlit Dashboard
-- ML Prediction
+**Monitor • Forecast • Analyze • Warn**
+
+Ganga River water-quality forecasting and early-warning system using machine learning, deep learning and geospatial analytics.
+
+**Tech:** Python • Pandas • NumPy • Scikit-learn • XGBoost • TensorFlow/Keras • FastAPI • PostgreSQL • SQLAlchemy • Streamlit • Folium • PyDeck • Docker
+
+**Key Features:**
+- 📊 Water-quality trend analysis
+- 🧠 ML & DL forecasting
+- 🗺️ Interactive Ganga monitoring-station map
+- ⚠️ Environmental risk assessment
+- 🚨 Early-warning alerts
+- 📈 Model benchmarking
+
+---
+
+### 📄 AI Resume Analyzer
+
+AI-powered resume evaluation system that extracts skills, analyzes job relevance, and generates ATS-focused feedback.
+
+**Tech:** Python • NLP • Scikit-learn • Pandas • Streamlit • FPDF
+
+**Key Features:**
+- 📄 PDF resume parsing
+- 🔍 Skill extraction
+- 📊 ATS score & keyword analysis
+- 🎯 Missing-skill detection
+- 📑 Automated PDF feedback
+- 🌐 Live Streamlit deployment
+
+🔗 [Live Demo](https://resume-analyzer-09.streamlit.app/)
+
+---
+
+### 🎓 Student Performance & Attendance Analyzer
+
+Machine Learning web application that predicts student performance using academic factors such as GPA, attendance, and semester.
+
+**Tech:** Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • Streamlit
+
+**Key Features:**
+- 📊 Exploratory Data Analysis
+- 🤖 Random Forest classification
+- 🎯 Performance prediction
+- 📈 Interactive Streamlit interface
+
+🔗 [GitHub Repository](https://github.com/madhavisolanki-ui/Student-Performance-Analyzer)
+
+---
 
 ### 🤖 AI Support Bot
-- LLM Based Assistant
-- Context Aware Responses
+
+Privacy-first RAG chatbot that provides context-aware, source-cited answers from internal knowledge-base documents.
+
+**Tech:** Python • LlamaIndex • Groq • Hugging Face Embeddings • Streamlit
+
+**Key Features:**
+- 🔎 Semantic document retrieval
+- 🧠 Context-aware LLM responses
+- 📚 Source-cited answers
+- ⚡ Low-latency responses
+- 🔐 Privacy-focused design
+
+🔗 [Live Demo](https://ai-support-bot.streamlit.app/)
 
 ---
 
@@ -123,26 +204,14 @@
 
 </p>
 
+---
+
 <div align="center">
 
 ### ⭐ Thanks for visiting!
----
 
-“**Great engineers don't just write code—they solve meaningful problems.**”
+**"Great engineers don't just write code — they solve meaningful problems."**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ba55d3,100:ff69b4&height=120&section=footer"/>
 
 </div>
-
-
-
-<!-- START_ACTIVITY -->
-#### â¡ Recent GitHub Activity
-
-- ð `madhavisolanki-ui/Aquanga` â pull request merged (2026-08-23)
-- ð `madhavisolanki-ui/Aquanga` â pushed 0 commits (2026-08-23)
-- ð± `madhavisolanki-ui/Aquanga` â created branch master (2026-08-22)
-- ð `madhavisolanki-ui/BridgeLabz-Training-3Y` â pushed 0 commits (2026-08-21)
-- ð± `madhavisolanki-ui/BridgeLabz-Training-3Y` â created branch CSS-Practice (2026-08-20)
-- ð´ `seanprashad/leetcode-patterns` â forked (2026-08-15)
-<!-- END_ACTIVITY -->
