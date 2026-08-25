@@ -66,98 +66,32 @@ Building practical solutions with <b>Machine Learning, LLMs and RAG</b>.
 
 ---
 
+
 # 🚀 Featured Projects
 
-## 🌊 Aquanga
+### 🌊 Aquanga
+Ganga water-quality forecasting & early-warning system.  
+`Python` `XGBoost` `TensorFlow` `FastAPI` `PostgreSQL`
 
-### Predictive Water Monitoring & Early Warning System
+🔗 [Repository](https://github.com/madhavisolanki-ui/Aquanga)
 
-> **Monitor • Forecast • Analyze • Warn**
+### 🤖 AI Support Bot
+RAG-based chatbot with context-aware, source-cited responses.  
+`Python` `LlamaIndex` `Groq` `Hugging Face`
 
-An end-to-end environmental monitoring system for forecasting **Ganga River water quality** and identifying potential pollution risks before critical thresholds are reached.
+🔗 [Demo](https://ai-support-bot.streamlit.app/) · [Repository](https://github.com/madhavisolanki-ui/ai-support-bot)
 
-**Tech Stack**
+### 📄 AI Resume Analyzer
+AI-powered resume analysis with ATS scoring & skill-gap detection.  
+`Python` `NLP` `Scikit-learn` `Streamlit`
 
-`Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost`  
-`TensorFlow/Keras` `FastAPI` `PostgreSQL` `SQLAlchemy`  
-`Streamlit` `Folium` `PyDeck` `Docker`
+🔗 [Demo](https://resume-analyzer-09.streamlit.app/) · [Repository](https://github.com/madhavisolanki-ui/AI-Resume-Analyzer)
 
-**Engineering Highlights**
+### 🎓 Student Performance Analyzer
+ML-based student performance prediction using academic data.  
+`Python` `Pandas` `Scikit-learn` `Streamlit`
 
-- 📊 Time-series preprocessing and feature engineering
-- 🧠 ML and Deep Learning model benchmarking
-- 📈 Chronological model evaluation
-- 🗺️ Geospatial monitoring-station visualization
-- ⚠️ Environmental risk scoring
-- 🚨 Automated early-warning alerts
-- 🔌 REST API for prediction and monitoring
-
-🔗 **[View Repository](https://github.com/madhavisolanki-ui/Aquanga)**
-
----
-
-## 🤖 AI Support Bot
-
-Privacy-focused **RAG-based support chatbot** that retrieves relevant knowledge-base information and generates context-aware, source-cited responses.
-
-**Tech Stack**
-
-`Python` `LlamaIndex` `Groq`  
-`Hugging Face Embeddings` `Streamlit`
-
-**Engineering Highlights**
-
-- 🔎 Semantic document retrieval
-- 🧠 Context-grounded LLM responses
-- 📚 Source-cited answers
-- ⚡ Low-latency inference
-- 🔐 Privacy-focused architecture
-
-🔗 **[Live Demo](https://ai-support-bot.streamlit.app/)**  
-🔗 **[View Repository](https://github.com/madhavisolanki-ui/ai-support-bot)**
-
----
-
-## 📄 AI Resume Analyzer
-
-ML/NLP application for analyzing resumes, extracting skills and generating ATS-focused feedback.
-
-**Tech Stack**
-
-`Python` `NLP` `Scikit-learn`  
-`Pandas` `Streamlit` `FPDF`
-
-**Engineering Highlights**
-
-- 📄 PDF text extraction
-- 🔍 Automated skill extraction
-- 📊 ATS score calculation
-- 🎯 Keyword and skill-gap analysis
-- 📑 Automated feedback report generation
-
-🔗 **[Live Demo](https://resume-analyzer-09.streamlit.app/)**  
-🔗 **[View Repository](https://github.com/madhavisolanki-ui/AI-Resume-Analyzer)**
-
----
-
-## 🎓 Student Performance & Attendance Analyzer
-
-Machine Learning application for predicting student performance from academic and attendance-related features.
-
-**Tech Stack**
-
-`Python` `Pandas` `NumPy`  
-`Scikit-learn` `Matplotlib` `Seaborn` `Streamlit`
-
-**Engineering Highlights**
-
-- 📊 Exploratory data analysis
-- 🧹 Data preprocessing
-- 🤖 Random Forest classification
-- 📈 Model evaluation
-- 🎯 Interactive prediction interface
-
-🔗 **[View Repository](https://github.com/madhavisolanki-ui/Student-Performance-Analyzer)**
+🔗 [Repository](https://github.com/madhavisolanki-ui/Student-Performance-Analyzer)
 
 ---
 
