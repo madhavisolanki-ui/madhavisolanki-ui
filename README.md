@@ -178,10 +178,10 @@ ML-based student performance prediction using academic data.
 <!-- START_ACTIVITY -->
 #### â¡ Recent GitHub Activity
 
+- â­ `rohitg00/ai-engineering-from-scratch` â starred (2026-09-29)
 - â­ `Nilkamal21/Forge-GPT` â starred (2026-09-26)
 - â­ `FailproofAI/failproofai` â starred (2026-09-21)
 - â­ `Codensity30/Strivers-A2Z-DSA-Sheet` â starred (2026-09-17)
 - ð `shiksha112/VaaniSetu` â pushed 0 commits (2026-09-15)
 - ð `madhavisolanki-ui/VaaniSetu` â pushed 0 commits (2026-09-13)
-- ð `shiksha112/sih` â pushed 0 commits (2026-09-12)
 <!-- END_ACTIVITY -->
