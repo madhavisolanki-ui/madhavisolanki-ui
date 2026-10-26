@@ -180,5 +180,4 @@ ML-based student performance prediction using academic data.
 
 - â­ `HandsOnLLM/Hands-On-Large-Language-Models` â starred (2026-10-05)
 - â­ `rohitg00/ai-engineering-from-scratch` â starred (2026-09-29)
-- â­ `Nilkamal21/Forge-GPT` â starred (2026-09-26)
 <!-- END_ACTIVITY -->
