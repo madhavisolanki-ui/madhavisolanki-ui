@@ -179,5 +179,4 @@ ML-based student performance prediction using academic data.
 #### â¡ Recent GitHub Activity
 
 - â­ `HandsOnLLM/Hands-On-Large-Language-Models` â starred (2026-10-05)
-- â­ `rohitg00/ai-engineering-from-scratch` â starred (2026-09-29)
 <!-- END_ACTIVITY -->
